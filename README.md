@@ -1,19 +1,19 @@
-# Projet de Gestion Automobile Raudi 🚗
+# 🚗 Projet de Gestion Automobile Raudi
 
 Bienvenue dans le projet de gestion automobile de Raudi ! Raudi est une nouvelle entreprise spécialisée dans la gestion de voitures, offrant une gamme de modèles sous la marque Raudi. Actuellement, la marque propose 3 modèles : Raudi R1, Raudi R2 et Raudi Famille, mais prévoit d'ajouter de nouveaux modèles à l'avenir.
 
-## Membres du groupe 👨‍💻
+## 👨‍💻 Membres du groupe 
 
 - [Kevin](https://github.com/Kvn9) 
 - [Damien](https://github.com/DamienLortieThibaut) 
 - [Ahmad](https://github.com/ahamie71) 
 - [Kilian](https://github.com/Biholo) 
 
-## Objectif du Projet
+## 🎯 Objectif du Projet
 
 L'objectif principal de ce projet est de développer une API REST qui permettra de gérer les différents modèles de voitures Raudi, en fournissant des fonctionnalités telles que la création, la mise à jour, la suppression et la récupération d'informations sur ces modèles. Nous visons à rendre cette gestion automobile aussi efficace et conviviale que possible.
 
-## Fonctionnalités Clés
+## 🔑 Fonctionnalités Clés
 
 Le système de gestion automobile de Raudi propose les fonctionnalités suivantes :
 
@@ -27,7 +27,7 @@ Le système de gestion automobile de Raudi propose les fonctionnalités suivante
 
 5. **Fonctionnalités Client Connecté** : Les clients qui sont connectés à l'application ont accès à des fonctionnalités supplémentaires qui améliorent leur expérience utilisateur.
 
-## Utilisateurs
+## 🧑‍🤝‍🧑 Utilisateurs
 
 L'application est conçue pour servir plusieurs types d'utilisateurs :
 
@@ -35,7 +35,7 @@ L'application est conçue pour servir plusieurs types d'utilisateurs :
 
 - **Comptables** : Les comptables de l'entreprise ont accès à des fonctionnalités spécifiques pour gérer les finances et générer des rapports.
 
-## Technologies Utilisées
+## 🛠 Technologies Utilisées
 
 Le projet de gestion automobile de Raudi a été développé en utilisant les technologies suivantes :
 
@@ -44,12 +44,12 @@ Le projet de gestion automobile de Raudi a été développé en utilisant les te
   - ORM (Object-Relational Mapping) : Sequelize pour la communication avec la base de données.
 
 - **Frontend** :
-  - Le choix du langage pour le frontend n'a pas été spécifié dans la consigne. Nous utilisons JavaScript, HTML, CSS, React.
+  - Le choix du langage pour le frontend n'a pas été spécifié dans la consigne. Nous avons choisi d'utiliser JavaScript, HTML, CSS, React.
 
 - **Versioning** :
-  - GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
+  -GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
 
-## Installation
+## 🚀 Installation
 
 1. Clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante :
 2. Installez les dépendances Node.js en exécutant la commande suivante dans le répertoire du projet :
