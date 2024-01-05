@@ -47,7 +47,7 @@ Le projet de gestion automobile de Raudi a été développé en utilisant les te
   - Le choix du langage pour le frontend n'a pas été spécifié dans la consigne. Nous avons choisi d'utiliser JavaScript, HTML, CSS, React.
 
 - **Versioning** :
-  -GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
+  - GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
 
 ## 🚀 Installation
 
