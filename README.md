@@ -44,10 +44,10 @@ Le projet de gestion automobile de Raudi a été développé en utilisant les te
   - ORM (Object-Relational Mapping) : Sequelize pour la communication avec la base de données.
 
 - **Frontend** :
-  - Le choix du langage pour le frontend n'a pas été spécifié dans la consigne. Vous pouvez utiliser le langage de votre choix, par exemple, JavaScript, HTML, CSS, React, Angular, etc.
+  - Le choix du langage pour le frontend n'a pas été spécifié dans la consigne. Nous utilisons JavaScript, HTML, CSS, React.
 
 - **Versioning** :
-  - Git et GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
+  - GitHub/GitLab ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
 
 ## Installation
 
