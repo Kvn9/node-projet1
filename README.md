@@ -50,6 +50,10 @@ Le projet de gestion automobile de Raudi a été développé en utilisant les te
   - GitHub ont été utilisés pour le versioning du projet, permettant une gestion collaborative efficace du code source.
 
 ## 🚀 Installation
-
-1. Clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante :
-2. Installez les dépendances Node.js en exécutant la commande suivante dans le répertoire du projet :
+   Cloner le projet depuis GitHub :
+   ```bash
+   git clone [URL_du_projet]
+   Aller dans le dossier back : cd back ensuite faire npm i
+   Aller dans le dossier front : cd ../front faire npm i 
+   Pour finir lancer le projet : npm start
+   #
